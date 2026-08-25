@@ -1,3 +1,4 @@
 {
-       "dailye_rating_on": false
-   }
+    "dailye_rating_on": false,
+    "studyd_rating_on": true
+}
