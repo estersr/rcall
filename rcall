@@ -2,5 +2,5 @@
     "dailye_rating_on": false,
     "studyd_rating_on": false,
     "sleept_rating_on": false, 
-    "paintly_rating_on": true
+    "paintly_rating_on": false
 }
