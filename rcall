@@ -1,6 +1,7 @@
 {
     "dailye_rating_on": false,
     "studyd_rating_on": true,
-    "sleept_rating_on": false, 
-    "paintly_rating_on": true
+    "sleept_rating_on": false,
+    "paintly_rating_on": true,
+    "bubblyst_rating_on": true
 }
