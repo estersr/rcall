@@ -5,5 +5,6 @@
     "paintly_rating_on": false,
     "bubblyst_rating_on": false,
     "rememo_rating_on": false,
-    "piggyb_rating_on": true
+    "piggyb_rating_on": false,
+    "eye_relax_rating_on": true
 }
