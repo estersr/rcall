@@ -3,5 +3,6 @@
     "studyd_rating_on": true,
     "sleept_rating_on": false,
     "paintly_rating_on": false,
-    "bubblyst_rating_on": false
+    "bubblyst_rating_on": false,
+    "rememo_rating_on": true
 }
