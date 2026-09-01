@@ -6,5 +6,6 @@
     "bubblyst_rating_on": false,
     "rememo_rating_on": true,
     "piggyb_rating_on": false,
-    "eye_relax_rating_on": false
+    "eye_relax_rating_on": false,
+    "pettracker_rating_on": true
 }
