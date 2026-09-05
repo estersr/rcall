@@ -4,7 +4,7 @@
     "sleept_rating_on": true,
     "paintly_rating_on": true,
     "bubblyst_rating_on": false,
-    "rememo_rating_on": false,
+    "rememo_rating_on": true,
     "piggyb_rating_on": true,
     "eye_relax_rating_on": true,
     "pettracker_rating_on": true,
