@@ -9,5 +9,5 @@
     "eye_relax_rating_on": true,
     "pettracker_rating_on": true,
     "retrog_rating_on": true,
-    "marketing_rating_on": true
+    "marketing_rating_on": false
 }
